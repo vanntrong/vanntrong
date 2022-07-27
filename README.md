@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**vanntrong/vanntrong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ansidev/ansidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <img src="https://komarev.com/ghpvc/?username=ansidev" alt="Profile view" />
+</div>
+
+<div>
+  <img src="https://github.com/ansidev/ansidev/blob/main/github_metrics_01.svg" width="48%" />
+  <img src="https://github.com/ansidev/ansidev/blob/main/github_metrics_02.svg" width="48%" />
+</div>
