@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vo Van Trong</h1>
 <h3 align="center">A Web Developer in Ho Chi Minh City</h3>
 
-- 🔭 I’m currently working on **1fox-venture**
-
 - 📫 How to reach me **vovantrong.dev@gmail.com**
 
 <p align="left">
